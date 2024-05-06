@@ -136,4 +136,4 @@ g++  mutiple_mutiple_stop.cpp -o mutiple_mutiple_stop -lpthread
 
 
 
-本文字学习自：https://github.com/LHCyGan/Concurrent_Programming
+本文学习自：https://github.com/LHCyGan/Concurrent_Programming
